@@ -1,0 +1,15 @@
+body{
+    letter-spacing: -1px;
+    background-image: url("../images/5.jpeg");
+}
+img{
+    width: 200px;
+    height: 200px;
+    padding: 0 !important;
+}
+.row{
+    background-color: antiquewhite !important;   
+}
+.rowLast{
+    width: 800px;
+}
